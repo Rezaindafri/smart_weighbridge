@@ -170,4 +170,4 @@ Setelah semua *setup* selesai (MySQL menyala, OpenPLC berstatus *Running*), sist
 
 ## 📌 Catatan
 
-Proyek ini merupakan purwarupa (*prototype*) yang disimulasikan untuk kebutuhan akademik dan portofolio profesional.
+Proyek ini merupakan purwarupa (*prototype*) yang disimulasikan untuk Pembelajaran dan pengetahuan serta keperluan Kerja Praktek
