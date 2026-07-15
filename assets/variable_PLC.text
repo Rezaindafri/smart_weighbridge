@@ -1,0 +1,17 @@
+VAR
+    PC_ANPR_Truk_Detected : BOOL AT %QX0.0 := FALSE;
+    S1_LiDAR_Posisi : BOOL AT %QX0.1 := FALSE;
+    S2_LoadCell_Stable : BOOL AT %QX0.2 := FALSE;
+    Reset_Button : BOOL AT %QX0.3 := FALSE;
+    LiDAR_Volume_Raw : UINT AT %QW1 := 0.0;
+    LoadCell_Weight_Raw : UINT AT %QW2 := 0.0;
+    Database_Tare_Weight : UINT AT %QW3 := 0.0;
+    Palang_masuk : BOOL AT %QX0.4 := FALSE;
+    Sistem_Ready : BOOL AT %QX0.5 := FALSE;
+    Alarm_Posisi : BOOL AT %QX0.6 := FALSE;
+    Netto_Weight : UINT AT %QW4 := 0.0;
+    Density_Result : UINT AT %QW5 := 0.0;
+    Lock_Data : BOOL AT %QX0.7 := FALSE;
+    Volume_Locked : UINT := 0.0;
+    Weight_Locked : UINT := 0.0;
+END_VAR
