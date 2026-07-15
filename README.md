@@ -21,7 +21,7 @@ Sebelum memulai, pastikan sistem komputermu sudah terinstal perangkat lunak beri
 
 1. **Python 3.10+** (Sangat disarankan menggunakan Miniconda/Anaconda)
 2. **OpenPLC Runtime** (Untuk menjalankan server PLC)
-3. **OpenPLC Editor** (Opsional, jika ingin melihat/mengedit skema *Ladder Diagram*)
+3. **OpenPLC Editor** (digunakan untuk melihat/mengedit skema *Ladder Diagram*)
 4. **MySQL Server** (Bisa menggunakan XAMPP, MAMP, atau instalasi *native*)
 5. **Git** (Untuk *cloning* repositori)
 
