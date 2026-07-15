@@ -142,7 +142,7 @@ Setelah semua *setup* selesai (MySQL menyala, OpenPLC berstatus *Running*), sist
 3. Jalankan *script* utama:
 
    ```bash
-   python YoloOCRfinal.py
+   python YoloOCRfinal_Integrasi.py
    ```
 
 4. **Cara Kerja Simulasi:**
@@ -159,11 +159,11 @@ Setelah semua *setup* selesai (MySQL menyala, OpenPLC berstatus *Running*), sist
 
 ```text
 📦 smart-weighbridge-ai
- ┣ 📂 assets/              # Dokumentasi visual (skema PLC, screenshot, dll)
- ┣ 📂 plc_program/         # Source code & logic Ladder Diagram OpenPLC (Rifki)
- ┣ 📜 YoloOCRfinal.py      # Main script integrasi (Computer Vision + Modbus TCP + MySQL)
- ┣ 📜 .gitignore           # File ignore untuk menyembunyikan kredensial & environment
- ┗ 📜 README.md            # Dokumentasi utama
+ ┣ 📂 assets/                    # Dokumentasi visual (skema PLC, screenshot, dll)
+ ┣ 📂 plc_program/               # Source code & logic Ladder Diagram OpenPLC (Rifki)
+ ┣ 📜 YoloOCRfinal_Integrasi.py  # Main script integrasi (Computer Vision + Modbus TCP + MySQL)
+ ┣ 📜 .gitignore                 # File ignore untuk menyembunyikan kredensial & environment
+ ┗ 📜 README.md                  # Dokumentasi utama
 ```
 
 ---
