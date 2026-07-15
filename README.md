@@ -12,18 +12,6 @@ Sistem Jembatan Timbang Otomatis yang memadukan **Computer Vision (AI)** untuk p
 - **Seamless Modbus TCP Integration** — Komunikasi dua arah secara *real-time* antara sistem AI (Python Client) dan PLC (Server).
 - **Automated Database Logging** — Pencatatan riwayat timbangan secara otomatis ke dalam MySQL.
 
----
-
-## 👥 Tim Pengembang
-
-Proyek ini dikembangkan secara kolaboratif oleh:
-
-| Nama | Peran | Fokus | GitHub |
-|---|---|---|---|
-| **Rayza Indafri Yahya** <br><sub>Information Technology, Universitas Sumatera Utara</sub> | Computer Vision Engineer | Implementasi model YOLOv10 & PaddleOCR, manipulasi *image processing*, koreksi string plat nomor, dan optimasi *runtime* AI. | [@UsernameGitHubRayza](https://github.com/UsernameGitHubRayza) |
-| **Rifki** | Automation & Integration Engineer | Perancangan arsitektur *database* MySQL, logika *Ladder Diagram* pada OpenPLC, dan integrasi protokol komunikasi Modbus TCP. | [@UsernameGitHubRifki](https://github.com/UsernameGitHubRifki) |
-
-> ℹ️ *Silakan lengkapi nama belakang dan tautan GitHub anggota tim sesuai data sebenarnya sebelum di-*publish*.
 
 ---
 
